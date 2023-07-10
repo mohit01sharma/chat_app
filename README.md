@@ -8,8 +8,8 @@ Crating different groups
 Creating your own profile with profile picture  
 
 ## Screenshots
-![Screenshot](one.png)  
+![Screenshot](/images/one.png)  
   
-![Screenshot](two.png)  
+![Screenshot](/images/two.png)  
   
-![Screenshot](three.png)  
+![Screenshot](/images/three.png)  
