@@ -8,6 +8,8 @@ Crating different groups
 Creating you own profile with prfile picture  
 
 ## Screenshots
-![Screenshot](one.jpeg)  
-![Screenshot](two.jpeg)  
-![Screenshot](three.jpeg)  
+![Screenshot](one.png)  
+  
+![Screenshot](two.png)  
+  
+![Screenshot](three.png)  
