@@ -4,4 +4,4 @@ For starting the app in your local server first install the dependencies using `
 ## Features
 Personal messaging  
 Creating different groups  
-Creating your own profile with profile picture  
+Creating your profile with profile picture  
